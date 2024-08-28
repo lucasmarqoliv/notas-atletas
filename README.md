@@ -12,10 +12,10 @@ Este projeto analisa as notas de atletas, removendo a maior e menor nota para ca
 Execução:
 
 Clone o repositório:
-git clone https://github.com/seu-usuario/analisador-notas.git
+git clone https://github.com/lucasmarqoliv/notas-atletas.git
 
 Navegue até o diretório do projeto:
-cd analisador-notas
+cd notas-atletas
 
 Execute o script:
-node index.js
+node notas-atletas.js
